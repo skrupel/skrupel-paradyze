@@ -1,0 +1,20 @@
+Frachter:6:1:6.jpg:6_klein.jpg:10:2:2:3:0:0:0:70:200:1:2:30:0:
+Todesgleiter:8:2:8.jpg:8_klein.jpg:60:12:27:25:3:0:0:1:90:1:10:65:0:
+Frachter:16:3:16.jpg:16_klein.jpg:65:4:4:6:0:0:0:200:250:1:6:60:0:
+Todesgleiter:9:3:9.jpg:9_klein.jpg:69:27:34:17:4:0:0:1:90:1:10:67:0:
+Asgard Kreuzer:19:4:19.jpg:19_klein.jpg:153:52:57:68:4:2:0:80:450:2:426:248:0:
+Osiris:15:4:15.jpg:15_klein.jpg:80:22:23:10:1:0:2:70:320:1:258:60:0:
+Mutterschiff:12:5:12.jpg:12_klein.jpg:320:42:91:143:6:0:4:180:240:2:152:250:0:
+Asgard Kreuzer:5:5:5.jpg:5_klein.jpg:130:32:43:65:7:0:0:40:160:2:165:86:0:
+Frachter:17:6:17.jpg:17_klein.jpg:160:85:7:8:0:0:0:1200:600:2:102:130:0:
+Mutterschiff:14:6:14.jpg:14_klein.jpg:390:242:71:12:4:0:7:80:980:4:958:350:0:
+Invasionsträger:7:7:7.jpg:7_klein.jpg:360:85:75:88:0:0:0:950:600:2:102:130:000000000000000000000000000000000000000000000025:<b>Erweitertes Transportersystem</b><br><br>Mittels dieser Technologie ist es möglich über den Transporterraum auf Planeten zuzugreifen, welche 25 Lichtjahre entfernt sind.
+Alkesh:1:7:1.jpg:1_klein.jpg:25:32:32:48:2:0:0:550:250:2:15:130:00000000000000000000000000000000000000000000000023:<b>Cybernrittnikk</b><br><br>Diese einzigartige Technologie ist in der Lage pro Monat 5060 Replikatoren zu produzieren. Es werden 220 KT Vorräte hierfür benötigt und verbraucht.
+Apophis Mutterschiff:11:8:11.jpg:11_klein.jpg:510:140:143:150:7:5:0:170:260:4:328:150::
+Forschungsraumer:18:8:18.jpg:18_klein.jpg:280:53:74:115:6:1:0:25:300:2:320:293:0000000000000000000000041:<b>Subraumverzerrer (Stufe 4)</b><br>Eine kollabierende Subraumverzerrung sendet eine Schockwelle in den Raum, welche im Umkreis von 83 Lichtjahren sämtliches Leben vernichtet. Das Schiff wird dabei zerstört.<br><b>Erweiterte Sensorenphalanx</b><br>Mit Hilfe der Erweiterten Sensorenphalanx ist es möglich, die Sensorenreichweite von 47 auf 85 Lichtjahre zu erweitern.
+Asgard Kreuzer:4:9:4.jpg:4_klein.jpg:460:35:53:79:6:6:0:95:350:4:328:180:0:
+Mutterschiff:10:9:10.jpg:10_klein.jpg:970:125:150:527:6:0:0:1050:800:10:190:712:00000001010:<b>Quarkreorganisator</b><br><br>Die Oberth-Klasse ist in der Lage auf subatomarer Ebene Quarks zu reorganisieren und so pro Monat aus 113 KT Vorräten und 113 KT Rennurbin 113 KT Lemin zu gewinnen.
+Frachter:2:10:2.jpg:2_klein.jpg:220:125:13:18:0:0:0:2600:1200:4:202:160:0:
+ONeill Kreuzer:3:10:3.jpg:3_klein.jpg:240:260:343:350:10:8:0:320:560:6:1010:650:0:
+Osiris:20:10:20.jpg:20_klein.jpg:990:442:171:32:6:0:10:300:2000:8:1958:850:0:
+Mutterschiff:13:10:13.jpg:13_klein.jpg:840:625:250:134:8:0:0:2700:450:10:120:920:11120:<b>SubpartikelCluster</b><br><br>Mittels Vorräten ist ein SubpartikelCluster in der Lage Mineralien zu generieren. Aus 11 KT Vorrat werden auf diese Weise jeweils 1 KT Baxterium sowie 2 KT Rennurbin gewonnen.<br>Dieser Prozess kann maximal 287 mal pro Monat in Gang gesetzt werden.

@@ -1,0 +1,20 @@
+Polaris-Klasse:3:1:3.jpg:3_klein.jpg:50:20:40:5:2:0:0:40:260:1:180:75:0:
+Steamrunner-Klasse:13:2:13.jpg:13_klein.jpg:70:25:50:7:4:2:0:50:180:1:190:90:0: 
+DY-100-Klasse:15:3:15.jpg:15_klein.jpg:190:10:20:3:2:0:0:30:180:2:70:32:0000010:<b>Terraformer</b><br><br>Die DY-100-Klasse verfügt über die Instrumente und Erfahrung, um innerhalb eines Monats die durchschnittliche Temperatur eines Planeten um einen Grad Celsius zu erhöhen.
+J-Klasse Frachter:2:3:2.jpg:2_klein.jpg:65:4:4:6:0:0:0:200:250:1:6:60:0:
+Excelsior-Klasse:5:4:5.jpg:5_klein.jpg:30:4:3:13:2:0:0:30:110:2:78:35:0000001:<b>Terraformer</b><br><br>Mittels modifizierter Wetterkontrolltechnologie ist es der Besatzung der Excelsior-Klasse möglich, die Temperatur eines Planeten innerhalb eines Monats um einen Grad Celsius zu senken.
+NX-Klasse:1:5:1.jpg:1_klein.jpg:170:12:23:57:4:4:0:30:140:2:79:100:0:
+Nebula-Klasse:8:6:8.jpg:8_klein.jpg:390:42:61:73:4:4:0:350:470:2:430:170:0:
+Galaxy-Klasse:6:6:6.jpg:6_klein.jpg:110:22:47:53:4:2:0:80:140:2:336:120:0:
+M-Klasse Frachter:14:6:14.jpg:14_klein.jpg:160:85:7:8:0:0:0:1200:600:2:102:130:0:
+Defiant-Klasse:18:7:18.jpg:18_klein.jpg:100:5:45:35:4:0:0:30:140:1:162:90:0000000000000000000000001:<b>Erweiterte Sensorenphalanx</b><br><br>Mit Hilfe der Erweiterten Sensorenphalanx ist es der Defiant-Klasse möglich, ihre Sensorenreichweite von 47 auf 85 Lichtjahre zu erweitern.
+Intrepid-Klasse:11:8:11.jpg:11_klein.jpg:170:10:20:43:2:4:0:80:140:2:265:101:0000000000000000000000002:<b>Astrophysisches Labor</b><br><br>Das Astrophysische Labor setzt sich ausgiebig mit der Analyse der gesammelten Datenmengen der Sensoren auseinander und steigert ihre effektive maximale Reichweite auf 116 Lichtjahre.
+New-Orleans-Klasse:9:8:9.jpg:9_klein.jpg:270:12:43:67:6:3:0:90:120:2:328:150:0:
+Cougar-Klasse:4:8:4.jpg:4_klein.jpg:510:140:143:150:8:6:0:170:260:2:328:150:0:
+Nova-Klasse:17:9:17.jpg:17_klein.jpg:130:35:55:89:1:8:0:95:160:2:370:173:0:
+Miranda-Klasse:7:9:7.jpg:7_klein.jpg:460:35:53:79:6:6:0:95:350:2:328:180:0:
+Ambassador-Klasse:12:9:12.jpg:12_klein.jpg:395:25:45:49:4:0:6:65:280:2:370:173:0:
+Oberth-Klasse:10:9:10.jpg:10_klein.jpg:970:125:150:527:6:0:0:1050:800:10:190:712:00000001001:<b>Quarkreorganisator</b><br><br>Die Oberth-Klasse ist in der Lage auf subatomarer Ebene Quarks zu reorganisieren und so pro Monat aus 113 KT Vorräten und 113 KT Vomisaan 113 KT Lemin zu gewinnen.
+Y-Klasse Frachter:19:10:19.jpg:19_klein.jpg:220:125:13:18:0:0:0:2600:1200:4:202:160:0:
+Sovereign-Klasse:20:10:20.jpg:20_klein.jpg:810:240:343:350:10:10:0:320:560:4:1010:650:0:
+Olympic-Klasse:16:10:16.jpg:16_klein.jpg:840:625:250:134:8:0:0:2700:450:10:120:920:09111:<b>SubpartikelCluster</b><br><br>Mittels Vorräten generiert der SubpartikelCluster Mineralien. Aus 9 KT Vorrat werden auf diese Weise jeweils 1 KT Baxterium, 1KT Rennurbin sowie 1 KT Vomisaan gewonnen.<br>Dieser Prozess kann maximal 287 mal pro Monat in Gang gesetzt werden.

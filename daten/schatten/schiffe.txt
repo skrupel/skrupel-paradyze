@@ -1,0 +1,18 @@
+Kleiner Frachter:1:1:1.jpg:1_klein.jpg:10:2:2:3:0:0:0:70:200:1:2:30:0:
+Scout:2:2:2.jpg:2_klein.jpg:90:42:81:43:4:0:0:120:230:2:352:170:0:
+Eskorte:3:2:3.jpg:3_klein.jpg:60:12:27:45:6:0:0:20:180:2:175:75:0:
+Tanker:4:3:4.jpg:4_klein.jpg:20:10:2:20:0:0:0:2:900:2:2:10:0:
+Mittlerer Frachter:5:3:5.jpg:5_klein.jpg:65:4:4:6:0:0:0:200:250:1:6:60:0:
+Kleiner Kreuzer:6:4:6.jpg:6_klein.jpg:120:42:71:63:4:2:0:100:430:2:373:175:00000000000000000000001:<b>Tarnfeldgenerator</b><br><br>Dank des Tarnfeldgenerators ist diese Schiffklasse nicht von den Langstreckenscannern des Feindes zu orten.
+Transporter:7:4:7.jpg:7_klein.jpg:25:2:2:20:2:0:0:50:180:1:15:175:0:
+Kreuzer:8:5:8.jpg:8_klein.jpg:320:82:91:93:8:2:0:260:480:2:525:275:0:
+Kleiner Zerstörer:9:5:9.jpg:9_klein.jpg:110:32:43:25:2:4:0:40:120:2:222:90:00000000000000000000001:<b>Tarnfeldgenerator</b><br><br>Dank des Tarnfeldgenerators ist diese Schiffklasse nicht von den Langstreckenscannern des Feindes zu orten.
+Zerstörer:10:6:10.jpg:10_klein.jpg:180:32:53:65:7:0:0:40:160:2:265:96:000000000000000000000006:<b>Subraumverzerrer (Stufe 6)</b><br><br>Eine in sich kollabierende Subraumverzerrung sendet eine gewaltige Schockwelle in den Raum, welche im Umkreis von 72 Lichtjahren sämtliches Leben vernichtet. Das Schiff selbst wird dabei zerstört.
+Träger:11:6:11.jpg:11_klein.jpg:380:52:61:123:7:0:3:80:190:2:322:180:0:
+Fregatte:12:6:12.jpg:12_klein.jpg:280:25:45:89:6:4:0:35:140:2:240:113:00000000000000000000001:<b>Tarnfeldgenerator</b><br><br>Dank des Tarnfeldgenerators ist diese Schiffklasse nicht von den Langstreckenscannern des Feindes zu orten.
+Großer Frachter:13:6:13.jpg:13_klein.jpg:160:85:7:8:0:0:0:1200:600:2:102:130:0:
+Große Fregatte:14:8:14.jpg:14_klein.jpg:280:25:35:95:10:2:0:25:150:2:420:153:000000000000000000000009:<b>Subraumverzerrer (Stufe 9)</b><br><br>Eine in sich kollabierende Subraumverzerrung sendet eine gewaltige Schockwelle in den Raum, welche im Umkreis von 72 Lichtjahren sämtliches Leben vernichtet. Das Schiff selbst wird dabei zerstört.
+Lab-Schiff I:15:9:15.jpg:15_klein.jpg:970:125:150:527:6:0:0:1050:800:10:190:712:00000001010:<b>Quarkreorganisator</b><br><br>Diese Schiffsklasse ist in der Lage auf subatomarer Ebene Quarks zu reorganisieren und so pro Monat aus 113 KT Vorräten und 113 KT Rennurbin 113 KT Lemin zu gewinnen.
+ExFrachter:16:10:16.jpg:16_klein.jpg:220:125:13:18:0:0:0:2600:1200:4:202:160:0:
+Mutterschiff:17:10:17.jpg:17_klein.jpg:410:170:193:90:10:8:0:130:290:4:810:451:0:
+Lab-Schiff II:18:10:18.jpg:18_klein.jpg:840:625:250:134:8:0:0:2700:450:10:120:920:09111:<b>SubpartikelCluster</b><br><br>Mittels Vorräten können Mineralien generiert werden. Aus 9 KT Vorrat werden auf diese Weise jeweils 1 KT Baxterium, 1KT Rennurbin sowie 1 KT Vomisaan gewonnen.Dieser Prozess kann maximal 287 mal pro Monat in Gang gesetzt werden.

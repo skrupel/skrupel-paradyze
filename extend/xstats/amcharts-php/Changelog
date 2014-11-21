@@ -1,0 +1,6 @@
+2009-04-20: 0.2.0
+-----------------
+* Support for bubble charts
+* Support for radar charts
+* Packed new swfobject.js
+* Removed obsolete AmCharts::setLibraryPath() function

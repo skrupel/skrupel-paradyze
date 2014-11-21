@@ -1,0 +1,6 @@
+Independent Scientist Alliance
+Die ISA wurden ursprünglich von <a href="http://www.planetmaster.de" target="_blank">Bernd Ruf</a> für VGAPlanets V4 entwickelt und mit seiner Genehmigung ins Skrupelformat portiert.
+46:1:1.1:0.9:0.9:1.1:9
+46:9
+3:0
+Voltarin

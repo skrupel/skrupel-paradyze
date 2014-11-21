@@ -1,0 +1,45 @@
+body {
+	font-family: Georgia, Times, serif;
+	font-size: 13px;
+	background-color: #222222;
+	color: #fff;
+	margin: 10px;
+}
+ul {
+	margin: 0px;
+	padding: 0px 0px 0px 30px;
+}
+#jsNavi ul {
+	margin: 0px;
+	padding: 0px 0px 0px 0px;
+	list-style: none;
+	width: 500px;
+	height: 40px;
+}
+#jsNavi ul li {
+	margin: 0px 2px 4px 0px;
+	float: left;
+}
+a {
+	background-color: #ffffff;
+	color: #000000;
+	text-decoration: none;
+}
+li a {
+	display: block;
+	padding: 4px 7px 3px 7px;
+}
+li a:hover {
+	background-color: #000;
+	color: #fff;
+}
+h1, h2 {
+	font-weight: normal;
+}
+p {
+	width: 600px;
+	line-height: 19px;
+}
+.playlist-item-active a {
+	background-color: #ff0000;
+}

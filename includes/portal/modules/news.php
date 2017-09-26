@@ -1,10 +1,7 @@
         <div style="font-family: starcraft; font-size: 20px;">Neuigkeiten <a href="http://www.iceflame.net/feed/blog"><img src="../bilder/feed.png" alt="RSS" title="RSS" /></a></div>
         <br />
 <?php /*
-    $news_conn = mysql_connect('www.iceflame.net', 'd00dbb68', 'gwq8cs8JySCwbBd6');
-    mysql_select_db('d00dbb68', $news_conn);
-	$sql = mysql_query('SELECT p.*, u.username AS author_name FROM iceflame_blog_posts p, iceflame_blog_tags t, iceflame_users u WHERE t.post = p.id AND u.id = p.author AND t.word = "paradyze" GROUP BY p.id ORDER BY date DESC LIMIT 7');
-    while ($data = mysql_fetch_assoc($sql)):
+     while ($data = mysqli_fetch_assoc($sql, $db)):
 ?>
 		<br />
 		<div class="box" style="font-size: 11px;">
@@ -14,5 +11,4 @@
 		</div>
 <?php
     endwhile;
-    mysql_close($news_conn);
 */ ?>

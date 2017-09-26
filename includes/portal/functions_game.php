@@ -30,7 +30,7 @@ function get_goal_info($id) {
             'name' => 'Team Todfeind',
             'desc' => 'Jedes Team aus 2 Spielern erh&auml;lt 2 Todfeinde, welche es zu vernichten gilt'
         ),
-    )
+    );
     
     return $goals[$id];
 }

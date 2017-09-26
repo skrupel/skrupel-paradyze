@@ -32,7 +32,7 @@ if ($_SESSION["user_id"]): ?>
 <table cellpadding="5" cellspacing="2" width="100%">
   <tr>
     <td width="70%" valign="top">
-<?php portal_load_module('news'); ?>
+<?php //portal_load_module('news'); ?>
     </td>
     <td>&nbsp;</td>
     <td width="30%" valign="top">
@@ -42,8 +42,6 @@ if ($_SESSION["user_id"]): ?>
 <?php portal_load_module('turn_status'); ?>
         <br />
 <?php portal_load_module('tips'); ?>
-        <br />
-<?php portal_load_module('vote'); ?>
     </td>
   </tr>
 </table>

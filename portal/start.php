@@ -1543,11 +1543,6 @@ Bitte warten...
             else
                 @mail($data["email"], $betreff, $nachricht, $header);
         }
-
-        // Nachricht auf Twitter "zwitschern"
-        include_once PRDYZ_DIR_INCLUDES.'/classes/class.twitter.php';
-        $twt = new Twitter('Paradyze_Game', 'De$t!n4tIoN#uNkN0wN');
-        $twt->updateStatus(stripslashes($nachrichtmessenger));
     } else {
         if ($_POST["action"] == "create") {
             echo "ok";

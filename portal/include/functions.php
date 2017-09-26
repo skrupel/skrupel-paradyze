@@ -24,7 +24,7 @@ function portal_success_message($message, $next_link = null) {
 }
 
 function portal_load_module($module) {
-    $module_file = PRDYZ_DIR_EXTEND.'/portal/modules/'.$module.'.php';
+    $module_file = PRDYZ_DIR_INCLUDES.'/portal/modules/'.$module.'.php';
     if (file_exists($module_file)) {
         return include $module_file;
     } else {

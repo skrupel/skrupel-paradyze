@@ -4,19 +4,19 @@
 // Datenbankzugangsdaten
 
 $conf_database_server                        = 'localhost';
-$conf_database_login                         = 'master';
-$conf_database_password                      = '43!rGdLwid?xhYme$wyEwU#A&lic3p';
-$conf_database_database                      = 'paradyze';
+$conf_database_login                         = '';
+$conf_database_password                      = '';
+$conf_database_database                      = '';
 
 // Adminzugangsdaten
 
 $admin_login                   = 'admin';
-$admin_pass                    = '8DbaGDRP7XXW2mzy';
+$admin_pass                    = '';
 
 // Konfiguration
 
 $language                      = 'de';
-$absenderemail                 = 'webmaster@iceflame.net';
+$absenderemail                 = '';
 $conf_mail_extra_params        = false;
 $conf_admin_users              = array(4);
 $ping_off                      = 0;

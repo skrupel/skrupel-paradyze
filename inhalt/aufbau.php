@@ -23,7 +23,7 @@ include ("../inc.conf.php");
 <?php }
 if (($_GET["fu"]>=1) and ($_GET["fu"]<=99)) {
     if ($_GET["fu"]==8) {
-        $url="http://".$SERVER_NAME.$SCRIPT_NAME;
+        $url="http://".$_SERVER['SERVER_NAME'].$_SERVER['SCRIPT_NAME'];
         $url=substr($url,0,strlen($url)-18);
 ?>
         <html>

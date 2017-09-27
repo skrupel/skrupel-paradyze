@@ -20,7 +20,7 @@ if (!defined('PRDYZ_INSIDE')) die('GO AWAY!!!');
 // Teil 1: Globales //
 //////////////////////
 
-$rss_root = "http://" . $SERVER_NAME . substr($SCRIPT_NAME,0,-25);
+$rss_root = "http://" . $_SERVER['SERVER_NAME'] . substr($_SERVER['SCRIPT_NAME'],0,-25);
 $rss_pubdate = date("D, d M Y H:i:s O");
 $rss_name = "nobody";
 //Passwort ausgeklammert weil unnötig.

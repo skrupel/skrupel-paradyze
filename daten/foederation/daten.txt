@@ -1,6 +1,0 @@
-Vereinigte Föderation der Planeten
-
-50:2:0.75:1:1.25:0.75:1
-50:1
-7:1
-Erde
